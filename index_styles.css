@@ -1,0 +1,67 @@
+#logo { 
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 18%;
+    padding-bottom: 60px; 
+    }
+    
+#search_form {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    }
+
+
+form input[type="text"] {
+    display: absolute;
+    border: 1px solid grey;
+    border-radius: 20px;
+    padding: 8px;
+    border-color: Gainsboro;  
+    width: 500px;
+    height: 25px;
+    }
+
+form input[type="submit"] {
+    position: absolute;
+    top: 200%;
+    transform: translate(-50%, -50%);
+    font-size: 14px;
+    background: GhostWhite;
+    padding: 8px;
+    border: none;
+    }
+
+#search_button {
+    left: 30%;
+    }
+
+#IFL_button {
+    left: 60%;
+    }
+    
+#advsSrchLink {
+    position: absolute;
+    top: 4%;
+    right: 2%;
+    }
+    
+#imgSrchLink {
+    position: absolute;
+    top: 4%;
+    right: 12%;
+    }
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+    }    
+    
+    
+    
+    
+    

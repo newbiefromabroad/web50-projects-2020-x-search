@@ -1,0 +1,94 @@
+header {
+    position: absolute;
+    top: 4%;
+    right: 2%; 
+    }
+
+header > a {
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+    }
+
+#logo { 
+    top: 2%;
+    width: 5%;
+    }
+
+#advsearchtxt {
+    position: absolute;
+    top: 55px;
+    left: 30px;  
+    font-size: 20px;
+    padding-bottom: 20px;
+    color: red;
+    }
+
+hr {
+    position: relative;
+    top: 64px;
+    color: #f0f3f5;
+ 
+    }
+    
+#findtxt {
+    position: absolute;
+    top: 105px;
+    left: 30px;  
+    font-size: 18px;
+    padding-bottom: 20px;
+    }
+
+form input[type="text"] {
+    position: absolute;
+    left: 32%;
+    width: 350px;
+    transform: translate(-50%, -50%);
+    }
+
+form > p {
+    position: absolute;
+    left: 2%;
+    }
+    
+#allwordsbox {
+    top: 26%;
+    }
+    
+#allwordstxt  {
+    top: 22%;
+    }
+
+#exactwordsbox {
+    top: 33%;
+    }
+
+#exactwordstxt  {
+    top: 29%;
+    }
+
+#anywordsbox  {
+    top: 40%;
+    }
+
+#anywordstxt  {
+    top: 36%;
+    }
+
+#nonewordsbox  {
+    top: 47%;
+    }
+    
+#nonewordstxt  {
+    top: 43%;
+    }
+
+form input[type="submit"] {
+    position: absolute;
+    top: 60%;
+    left: 36%;
+    background: #1c81c9;
+    color: white;
+    padding: 10px;
+    font-size: 12px;    
+    }
